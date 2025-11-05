@@ -1,7 +1,7 @@
 🧩 Transition System API
 ========================
 
-`![Graph Example](Recources/graph-example.jpeg)`
+![Graph Example](Recources/graph-example.jpeg)
 
 A C# (.NET 8) project that models and explores state transitions between processes using Neo4j as a graph database.  
 The project automatically builds a transition graph by exploring states, evaluating conditions, and applying expressions dynamically.
@@ -109,9 +109,9 @@ After running TransitionAsync(), the graph might look like this:
 This visualizes how processes interact and evolve over time.
 
 
-`![Graph Example](Recources/graph-example-1.jpeg)`
-
 ------------------------------------------------------------
+
+[Graph Example](Recources/graph-example-1.jpeg)
 
 🧑‍💻 Project Structure
 -----------------------
