@@ -1,0 +1,6 @@
+@TransitionSystemApi_HostAddress = http://localhost:5071
+
+GET {{TransitionSystemApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
