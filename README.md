@@ -111,7 +111,7 @@ This visualizes how processes interact and evolve over time.
 
 ------------------------------------------------------------
 
-[Graph Example - 1](Recources/graph-example-1.jpeg)
+![Graph Example - 1](Recources/graph-example-1.jpeg)
 
 🧑‍💻 Project Structure
 -----------------------
