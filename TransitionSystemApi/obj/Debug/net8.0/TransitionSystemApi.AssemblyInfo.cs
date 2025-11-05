@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransitionSystemApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b5481d785379df87e605382decb6c9c1028431f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransitionSystemApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransitionSystemApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
